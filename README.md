@@ -10,7 +10,7 @@
 
 <h2>Visualização 🎥</h2>
 
-![img_app](https://user-images.githubusercontent.com/84635540/221325079-7490ae8a-1912-459c-a6c9-b232bb70f2db.gif)
+![img_app](https://github.com/Pedrowesley/ignite-challenge-marketspace/blob/main/assets/main-demonstrative.png)
 
 <br>
 
